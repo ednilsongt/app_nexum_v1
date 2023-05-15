@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <br>
 <br>
 <center>
@@ -31,7 +31,7 @@
 </html>
 
 
-<!DOCTYPE html>
+
 <br>
 <center>
 <html>
@@ -64,7 +64,7 @@
 </html>
 <img src="https://i.ibb.co/TbwKKtq/LOGO-2-1.png" alt="Descripción de la imagen" width="200" height="200">
 <br>
-<!DOCTYPE html>
+
 <br>
 <html>
   <head>
